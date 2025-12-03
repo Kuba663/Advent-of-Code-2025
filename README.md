@@ -2,7 +2,7 @@
 My submissions to AoC 2025. Will update as the chalenge progresses.
  - [x] Day 1 (Racket)
  - [x] Day 2 (Racket)
- - [ ] Day 3
+ - [x] Day 3 (Python)
  - [ ] Day 4
  - [ ] Day 5
  - [ ] Day 6
